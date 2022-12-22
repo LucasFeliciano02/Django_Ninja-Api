@@ -1,0 +1,7 @@
+pip install django-ninja
+pip install orjson
+
+
+
+put = Altera informações ja existente
+post = Cria algo no bd
