@@ -1,2 +1,2 @@
-# Django_Ninja-Rest_api
+# Django Ninja
 - Utilizando o Django Ninja para criar apis rest
